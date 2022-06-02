@@ -1,8 +1,5 @@
 ## Daejeon Bakery Festival
-```
-npm install
-npm start
-```
+<http://rivera00255.github.io/bakery-festival>
 
 ![screenshot](https://user-images.githubusercontent.com/93629526/170146009-6095c554-c55c-4b03-a770-bbb3bc7a9f34.jpg)
 
