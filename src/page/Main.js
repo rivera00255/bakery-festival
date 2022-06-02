@@ -37,7 +37,7 @@ function Main() {
     const [list, setList] = useState([]);
 
     useEffect(() => {
-        axios.get('http://localhost:3000/data/data.json')
+        axios.get('http://rivera00255.github.io/bakery-festival/data/data.json')
         .then(res => {
             setList(res.data)
         }).catch(err => console.log(err));
