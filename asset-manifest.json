@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bakery-festival/static/css/main.e6c13ad2.css",
+    "main.js": "/bakery-festival/static/js/main.bc4b5a87.js",
+    "static/js/787.408fcce1.chunk.js": "/bakery-festival/static/js/787.408fcce1.chunk.js",
+    "index.html": "/bakery-festival/index.html",
+    "main.e6c13ad2.css.map": "/bakery-festival/static/css/main.e6c13ad2.css.map",
+    "main.bc4b5a87.js.map": "/bakery-festival/static/js/main.bc4b5a87.js.map",
+    "787.408fcce1.chunk.js.map": "/bakery-festival/static/js/787.408fcce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bc4b5a87.js"
+  ]
+}
